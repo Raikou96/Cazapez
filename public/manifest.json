@@ -1,0 +1,9 @@
+{
+  "short_name": "CazaPez",
+  "name": "CazaPez - Capturas de Caza y Pesca",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2d6a4f",
+  "background_color": "#ffffff"
+}
